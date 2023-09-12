@@ -1,0 +1,10 @@
+python-dotenv
+pdfkit
+numpy
+pandas
+requests
+openai
+chromadb
+langchain
+llama_index
+
